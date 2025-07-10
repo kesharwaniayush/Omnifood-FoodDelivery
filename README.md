@@ -26,7 +26,7 @@ No waste: All our partners only use reusable containers to package all your meal
 Pause anytime: Going on vacation? Just pause your subscription, and we refund unused days.
 
 ### How Omnifood works
-
+![Image](https://github.com/user-attachments/assets/6b0e526e-2d6b-48dc-9eba-aa1b7f0f5f7f)
 
 
 **Your daily dose of health in 3 simple steps**
